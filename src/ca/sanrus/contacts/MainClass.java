@@ -58,7 +58,6 @@ public class MainClass {
 			
 		} while (continueLoop);
 		
-
 	}
 
 }
